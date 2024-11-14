@@ -4,7 +4,6 @@ Builder,Build two onto one of your towers,Yellow,Yellow
 Builder,Build 1 block of any player anywhere,Yellow,Yellow
 Builder,"Take up to 2 ""1 height"" towers and add them to one of your existing towers",Yellow,Yellow
 Builder,Choose an enemy that has to build one,Yellow,Yellow
-Builder,,Yellow,Yellow
 Builder,Discover + Build,Yellow,Yellow
 Utility,Move a tile to a new place (no islands can be created),Blue,Blue
 Utility,Move a whole tower to a neighboring location,Blue,Blue
@@ -12,9 +11,9 @@ Utility,Immediate card doesn't have effect,Blue,Blue
 Utility,Action card doesnt have effect,Blue,Blue
 Utility,can't rob,Blue,Blue
 Utility,Mirror the effect of the next card played,Blue,Blue
-Utility,"Reverse the direction of all tower building (e.g., subtract instead of add).",Blue,Blue
+Utility,Reverse the direction of all tower building (e.g. subtract instead of add).,Blue,Blue
 Utility ,Choose any two towers on the board and swap their location,Blue,Blue
-Utility,"You get an extra turn, but you must rewind one of your towers back to level 1.",Blue,Blue
+Utility,You get an extra turn but you must rewind one of your towers back to level 1.,Blue,Blue
 Utility,Temporarily swap hands with another player for one turn.,Blue,Blue
 Attack,Chosen enemy has to destroy a tower completely,Orange,Orange
 Attack,Chosen enemy is skipped this round,Orange,Orange
@@ -37,4 +36,4 @@ Pandoras Box,Relevel every tower on X to level 2,Grey,Yellow
 Pandoras Box,Chose a tower of yours all towers around it lose one level,Grey,Yellow
 Pandoras Box,All towers on yellow/Blue/red tiles lose one height,Grey,Yellow
 Pandoras Box,"Double all ""1 height"" towers to ""2 height"" immediately.",Grey,Yellow
-Pandoras Box,"Everyone must discard half of their cards, rounding up.",Grey,Yellow
+Pandoras Box,Everyone must discard half of their cards rounding up.,Grey,Yellow
